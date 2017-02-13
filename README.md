@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Material Dashboard
 
 [![Join the chat at https://gitter.im/flatlogic/angular-material-dashboard](https://badges.gitter.im/flatlogic/angular-material-dashboard.svg)](https://gitter.im/flatlogic/angular-material-dashboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -56,3 +57,7 @@ Design by [flatlogic.com](http://flatlogic.com/)
 - [Tweet about it](https://twitter.com/intent/tweet?text=Angular%20Material%20Dashboard%20https://github.com/flatlogic/angular-material-dashboard%20via%20@flatlogicinc) to support revolution in classic paid templates market.
 - Follow [@flatlogicinc on Twitter](https://twitter.com/flatlogicinc).
 - Subscribe to Flatlogic newsletter at [flatlogic.com](http://flatlogic.com/)
+=======
+# mypropertiesadmin
+administrador de propiedades
+>>>>>>> 23c3c8d3a830640caae9170e9097d1ab02d0ab79
